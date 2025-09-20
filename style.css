@@ -32,14 +32,17 @@ div{
 #div1{
     background-image: none;
     text-align: center;
+    display: inline-block;
 }
 #div2{
     background-image: none;
     text-align: center;
+    display: inline-block;
 }
 #div3{
     background-image: none;
     text-align: center;
+    display: inline-block;
 }
 
 .items{
@@ -48,6 +51,7 @@ div{
     font-weight: 800;
     text-decoration: underline;
     color: brown;
+    text-shadow: 5px 5px 6px;
 }
 
 .img{
@@ -55,4 +59,16 @@ div{
     width: 400px;
     border-radius: 40px;
     box-shadow: 10px 10px 15px yellowgreen;
+}
+
+button{
+    font-size: 20px;
+    font-weight: 700;
+    background-color: blue;
+
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
 }
