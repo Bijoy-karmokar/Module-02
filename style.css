@@ -9,3 +9,22 @@
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
 }
+.para{
+    text-align: center;
+    color: darkcyan;
+    padding: 10px 300px;
+}
+
+div{
+    background-image: url('image/spider.webp');
+    background-position: center;
+    /* background-repeat: repeat-y; */
+    /* background-repeat: repeat-x; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-origin: border-box; */
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    padding: 10px;
+   
+}
